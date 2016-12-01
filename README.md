@@ -1,4 +1,4 @@
-# Objective-C-Coding-Guidelines-In-Chinese
+# Objective-C 编码规范
 Objective-C编码规范，内容来自苹果、谷歌的文档翻译，自己的编码经验和对其它资料的总结。
 
 转载请注明出处。
